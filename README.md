@@ -10,6 +10,7 @@ You'll need a:<br>
   - PCB - About $21 with shipping<br>
   - Like 3kg of filament (I'm using Elegoo PETG Pro) - About $40<br>
   - Super glue or hot glue<br>
+  - Lots of patience<br>
   - Screws - 25mm length, 3.5mm diameter, 8.2 mm head diameter<br>
   - ESP32 C3 Zero - About $5 on aliexpress<br>
   - 512 WS2812 LEDs - The cheapest listing on aliexpress was about $30<br>
