@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/uo628n7ail7bmbb8mazsrh5l)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Basically ikea OBERGRÄND display/LED wall lamp clone
+> Basically ikea OBERGRÄND display/LED wall lamp clone. It's going to run WLED and will be fully 3D printed!
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
