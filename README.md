@@ -22,22 +22,22 @@ First, get your PCBs. You'll have to solder on 512 individual LEDs, I would reco
 <br><br>
 <img width="300" height="auto" alt="dupaaa" src="https://github.com/user-attachments/assets/15bf9591-b9e1-4e0d-9fc3-2a4cf81fa757" />
 <br><br>
-Connect it to your voltage converted in multiple places, I would recommend to solder in the power in every corner and in the center. Also adding a fuse is a great idea - I'm using a 15A fuse on 5V side. Now that the panel is basically done, lets move onto flashing WLED onto your ESP!<br><br><br>
+Connect it to your voltage converted in multiple places, I would recommend to solder in the power in every corner and the center. Also adding a fuse is a great idea - I'm using a 15A fuse on 5V side. Now that the panel is basically done, lets move onto flashing WLED onto your ESP!<br><br><br>
 
 
-Go to <a href="https://install.wled.me/">this site</a>. You should see something like on the image bellow. Connect your ESP, click install and choose something like "USB JTAG/serial debug unit". You should now have WLED installed!<br><br>
+Go to <a href="https://install.wled.me/">this site</a>. You should see something like on the image bellow. Connect your ESP, click install and choose something like "USB JTAG/serial debug unit" (note that the name might be different!). Put in your WiFi AP info and you should now have WLED installed! Let's move on to configuring everything!<br><br>
 <img width="1000" height="auto" alt="image" src="https://github.com/user-attachments/assets/b4918559-d473-40b1-a899-763630b2476d" />
 <br><br>
 Go to the IP of your ESP and you should see something like bellow! Click on the "Config" button and then "LED & Hardware".<br><br>
 <img width="1000" height="auto" alt="image" src="https://github.com/user-attachments/assets/56b17c35-f8a3-477e-8083-16c939b1e2d7" />
 <br><br>
-Set the max PSU current to 15A, set the length of your LED chain (512!) and the IO pin you're using - I choose 21! Click save and then click 2D configuration.<br><br><img width="1000" height="auto" alt="image" src="https://github.com/user-attachments/assets/f89b8a5d-5ee1-4c53-a956-066d4347058d" />
+Set the max PSU current to 15A, set the length of your LED chain (512! (not, not 512!≈3,4772897931326053632830459175456e+1166 xD)) and the IO pin you're using - I choose 21. Click save and then click 2D configuration.<br><br><img width="1000" height="auto" alt="image" src="https://github.com/user-attachments/assets/f89b8a5d-5ee1-4c53-a956-066d4347058d" />
 <br><br>
 Set everything like on the image bellow!
 <br><br>
 <img width="1000" height="auto" alt="image" src="https://github.com/user-attachments/assets/00bda015-db4c-44c7-a5e0-4cffb8e1ee87" />
 <br><br>
-Now connect your ESP to the panel (5V, Data in to the pin you choose, GND) and you should be done! Choose the effect you want and click "Peek". The panel should show the same thing you can see on your screen!<br><br>
+Now connect your ESP to the panel (5V, Data in to the pin you choose, GND) and you should be done! Choose the effect you want and click "Peek". The panel should show the same thing you can see on your screen! Find more about effects on <a href="https://kno.wled.ge/features/effects/">https://kno.wled.ge/features/effects/</a>!<br><br>
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/65a93615-dffb-4e1d-961a-3bb5f6f46359" />
 
 
