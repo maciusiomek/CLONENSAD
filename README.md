@@ -7,14 +7,14 @@ I really liked Ikea OBEGRÄNSAD and especially <a href="https://github.com/ph1p/
 <hr>
 <h2>What you'll need to build this project and pricing.</h2>
 You'll need a:<br>
-  - PCB - About $21 with shipping<br>
+  - PCBs - About $21 with shipping<br>
   - Like 3kg of filament (I'm using Elegoo PETG Pro) - About $40<br>
-  - Super glue or hot glue<br>
+  - Super glue, T7000 or hot glue<br>
   - Lots of patience<br>
-  - Screws - 25mm length, 3.5mm diameter, 8.2 mm head diameter<br>
+  - Screws - 25mm length, 3.5mm diameter, 8.2 mm head diameter - for me, they were free<br>
   - ESP32 C3 Zero - About $5 on aliexpress<br>
-  - 512 WS2812 LEDs - The cheapest listing on aliexpress was about $30<br>
-  - 12V PSU<br>
+  - 512 WS2812 LEDs - The cheapest listing I found on aliexpress was about $18<br>
+  - 12V PSU - I had one on had, it's about $30<br>
   - 12V to 5V converter - I'm using one from some company called TOBSUN, model EA75-5V. It worked great for the ambilight behind my monitor, so I think it's alr! - It was about $5-7<br>
 <hr>
 <h2>Assembly.</h2>
